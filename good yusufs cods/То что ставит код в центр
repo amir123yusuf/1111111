@@ -1,0 +1,4 @@
+article {
+    width: 768px;
+    margin: 0 auto 32px;
+    padding: 6px 15px;

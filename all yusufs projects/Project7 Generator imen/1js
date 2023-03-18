@@ -1,0 +1,17 @@
+    genderJson: `{
+        "count": 2,
+        "list": {
+    "id_1": "Мужской",
+    "id_2": "Женский"
+        }
+    }`,
+
+genderJson = Math.round(Math.random())
+
+if (genderJson === 1) {
+    console.log('Женщина');
+} else{ console.log('Мужчина')
+}
+
+    delete initPerson.femSurname;
+    delete initPerson.firstNameFem;
